@@ -25,9 +25,8 @@ public class Exercicio5 {
             if(pesq.endsWith(nomes[i])){
                 acha = true;
             }else{
-                acha = false;
-            }
-            i++;
+                 i++;
+            }      
         }
         
         if(acha==true){
